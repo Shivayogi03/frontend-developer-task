@@ -154,9 +154,13 @@ You can export the Thunder Client collection (.json) if required for submission.
 Production Considerations -
 
 Backend deployment: Heroku / AWS / DigitalOcean
+
 Frontend deployment: Vercel / Netlify
+
 MongoDB Atlas for production database
+
 Optional caching (Redis) & rate limiting
+
 React bundle optimization with code-splitting & lazy loading
 
 
@@ -168,7 +172,10 @@ GitHub: https://github.com/Shivayogi03/frontend-developer-task
 
 ✅ Notes
 
--Full CRUD implemented on frontend and backend-
+-Full CRUD implemented on frontend and backend
+
 -Secure authentication with JWT
+
 -Responsive, clean, and intuitive UI
+
 -Scalable project structure ready for production
