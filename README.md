@@ -86,6 +86,7 @@ npm run dev
 Frontend runs on http://localhost:5173
 
 🗂️ API Endpoints
+
 Authentication
 Method	Endpoint	Description
 POST	/auth/register	🆕 Register new user
@@ -167,7 +168,9 @@ React bundle optimization with code-splitting & lazy loading
 🧑‍💻 Author
 
 Name: Shivayogi AM
+
 Email: perilious8888@gmail.com
+
 GitHub: https://github.com/Shivayogi03/frontend-developer-task
 
 ✅ Notes
